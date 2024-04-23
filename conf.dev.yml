@@ -1,0 +1,10 @@
+mongo:
+  host: localhost
+  port: 27017
+  db: simply_lab
+  user: root
+  password: example
+redis:
+  host: localhost 
+  port: 26379
+  password: 
